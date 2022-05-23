@@ -65,5 +65,17 @@ SIer
 * [twelve factor app beyond](https://qiita.com/yusukaaay/items/7ae2df0b0e9cc66ac572)
 * [devops google dora](https://cloud.google.com/architecture/devops/capabilities?hl=ja)
 * [椎葉さん](https://speakerdeck.com/bufferings/tech-lead-in-scrum)
+* [Real World HTTP ミニバン](https://www.oreilly.co.jp/books/9784873118789/)
+* [分散トランザクション](https://www.slideshare.net/kumagi/ss-78765920)
+* [スクラム導入後にアジリティが減少してしまう理由](https://scrummaster.jp/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-jp.pdf)
+* [スクラムリファレンスカード](https://scrumreferencecard.com/ScrumReferenceCard-jp.pdf)
+* [スクラムマスターチェックリスト](https://scrummasterchecklist.org/pdf/Scrum-Master-Checklist-jp.pdf)
+* [t_wadaさんのテスト](https://www.slideshare.net/t_wada/test-strategy-and-tactics)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ## 概念
