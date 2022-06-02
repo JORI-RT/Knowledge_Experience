@@ -48,6 +48,10 @@ SIer
 * ユースケース駆動開発実践ガイド kindle ユースケース駆動開発
 * ods for java pdf アルゴリズムとデータ構造
 * Linuxカーネルの教科書　kindle linux
+* 人月の神話　ぶつり 銀の弾丸はない
+* 正しいものを正しく作る　物理本 アジャイル 
+* 誰のためのデザイン 物理本  
+* マーケット感覚をみにつけよう　物理本 価値発見 
 
 ## リンク
 * [スクラムガイド](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf) 
@@ -71,8 +75,8 @@ SIer
 * [スクラムリファレンスカード](https://scrumreferencecard.com/ScrumReferenceCard-jp.pdf)
 * [スクラムマスターチェックリスト](https://scrummasterchecklist.org/pdf/Scrum-Master-Checklist-jp.pdf)
 * [t_wadaさんのテスト](https://www.slideshare.net/t_wada/test-strategy-and-tactics)
-* []()
-* []()
+* [オブジェクト指向広場](https://www.ogis-ri.co.jp/otc/hiroba/topic/oo.html)
+* [amazon readership principles](https://www.amazon.jobs/jp/principles)
 * []()
 * []()
 * []()
