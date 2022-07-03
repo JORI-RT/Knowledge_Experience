@@ -52,6 +52,7 @@ SIer
 * 正しいものを正しく作る　物理本 アジャイル 
 * 誰のためのデザイン 物理本  
 * マーケット感覚をみにつけよう　物理本 価値発見 
+* elastic readership　物理本 価値発見
 
 ## リンク
 * [スクラムガイド](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf) 
