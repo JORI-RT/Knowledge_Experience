@@ -78,6 +78,7 @@ SIer
 * [t_wadaさんのテスト](https://www.slideshare.net/t_wada/test-strategy-and-tactics)
 * [オブジェクト指向広場](https://www.ogis-ri.co.jp/otc/hiroba/topic/oo.html)
 * [amazon readership principles](https://www.amazon.jobs/jp/principles)
+* [プロジェクトマネジメントとは](https://speakerdeck.com/taishiblue/purodakutomanezimentotoha-xin-zu-yan-xiu?slide=35)
 * []()
 * []()
 * []()
