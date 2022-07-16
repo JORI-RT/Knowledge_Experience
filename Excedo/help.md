@@ -1,3 +1,7 @@
+録音
+I’m a beginner. Please speak slowly.
+「私は初心者です。ゆっくり話してください」
+
 Pardon me? ：王道の「何ですか？」
 Sorry?：イギリスでよく使われる「何ですか？
 Could you say that again?：もう一度言って頂けますか？
