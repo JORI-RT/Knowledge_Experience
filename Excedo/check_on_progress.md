@@ -19,6 +19,14 @@ Where have you got to with the presentation
 * What do you think we should do about the presentation?
 
 ## look ahead
-* ask about next steps and priorities
-* how summarise the plan
+### ask about next steps and priorities
+What are you going to do next?
+What are your next step?
+What is your top priority on this task this week?
 
+### how summarise the plan
+* So, just to check I've got this right.
+* We've said that you'll finish the report by Thursday.
+* We've agreed that I'll get Elsa to contract you with the data tomorrow.
+
+incorporate くみこむ
