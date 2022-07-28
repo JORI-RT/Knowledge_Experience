@@ -1,9 +1,7 @@
-Please take the conversation intermediate 3 course.
+Please take the conversation intermediate 4 course.
 
 I have done this in advance, please skip vocabulary section 
 
-It's getting warmer recently in tokyo.
-how about you.
 
 
 I work remotely

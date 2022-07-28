@@ -22,11 +22,39 @@ Where have you got to with the presentation
 ### ask about next steps and priorities
 What are you going to do next?
 What are your next step?
-What is your top priority on this task this week?
+What is your main priority this week?
 
 ### how summarise the plan
 * So, just to check I've got this right.
 * We've said that you'll finish the report by Thursday.
-* We've agreed that I'll get Elsa to contract you with the data tomorrow.
+* We've agreed that I'll get the legal team to contract you with the data tomorrow.
 
-incorporate くみこむ
+
+ロールプレイではなすことをきめておく
+
+
+hello 
+how are you ○○
+
+## Review progress
+### ask about progress
+Let me check on your progress.
+How are preparations for the promotional video going?
+### review the schedule
+how much longer do you need to finish the task?
+How about aiming for the March 3 instead of the February 27?
+
+## Dell with problems
+### how to ask about problem
+* What do you need to move forward?
+* Do you have any concern about the task
+### invite solutions
+* What do you think we should do about the task?
+* What's your preferred solution to this.
+## look ahead
+### ask about next steps and priorities
+What are you going to do next?
+What is your main priority this week?
+### how summarise the plan
+* So, just to check I've got this right.
+* We've said that you'll finish the report by Thursday.

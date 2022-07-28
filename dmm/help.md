@@ -8,10 +8,6 @@ During my free time, I enjoy playing soccer .
 I want to be able to speak English 
 because I want to work with foreign IT engineer .
 
-I can read and hear a little, but I can't speak at all
-Please tell me the teaching materials I should use
-I want to learn speaking English.
-
 ## help word
 missesどういういみですか
 What does misses mean?
