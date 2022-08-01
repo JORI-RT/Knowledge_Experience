@@ -19,16 +19,24 @@ No I don't. or I have no question.
 Could you please say it again.
 Could you type it in the chat box?
 チャットボックスに入力してもらえますか
+I can hear you clearly
+
+is this a correct pronunciation?
 
 今行ったことはあっていますか
 Am i right?
 
+## 勉強の仕方
+発音がいい先生を選ぶ
+ホスピタリティがいい先生を選ぶ
+瞬間英作文をやる　１ヶ月で１冊やりきったらおわり
+事前にインプットをして、ディスカッションしまくる
+教材はデイリーニュース、ディスカッションから始める旨をかいておく
+本をよむ
+ドラマをみる　英語
 
-教材をこちらから準備する
-瞬間英作文  まずこれ
-business english  その後
-conversation topics  その後
-daily news その後
-describing picture その後
+リスニング
+きく、わかるまできく　意味を理解する　自分の言葉で喋れるように
+読んで答え合わせ
+これのみ
 
-matsunoki3cl@gmail.com
