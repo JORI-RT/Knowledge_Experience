@@ -26,6 +26,13 @@ is this a correct pronunciation?
 今行ったことはあっていますか
 Am i right?
 
+
+I would like to use the following materials.
+「Which Country's Food Is the World's Most Popular?」
+
+Please Start with Exercise 4.
+Exercise 3 should be done beforehand.
+
 ## 勉強の仕方
 発音がいい先生を選ぶ
 ホスピタリティがいい先生を選ぶ
@@ -39,4 +46,6 @@ Am i right?
 きく、わかるまできく　意味を理解する　自分の言葉で喋れるように
 読んで答え合わせ
 これのみ
+
+daily news  free talk用の質問をかんがえておく
 
