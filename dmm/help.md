@@ -26,6 +26,10 @@ is this a correct pronunciation?
 今行ったことはあっていますか
 Am i right?
 
+I couldn't hear you. きこえませんでした
+
+Is there a difference between a and b?　aとｂはちがうのですか
+
 
 I would like to use the following materials.
 「Which Country's Food Is the World's Most Popular?」
