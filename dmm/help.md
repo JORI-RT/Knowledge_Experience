@@ -52,4 +52,3 @@ Exercise 3 should be done beforehand.
 これのみ
 
 daily news  free talk用の質問をかんがえておく
-
