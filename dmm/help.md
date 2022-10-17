@@ -52,3 +52,9 @@ Exercise 3 should be done beforehand.
 これのみ
 
 daily news  free talk用の質問をかんがえておく
+
+
+はなしたいけどはなせなかったこと、出てこなかった言葉
+
+spend a lot of time testing
+It should be very robust
